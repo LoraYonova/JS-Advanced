@@ -22,8 +22,5 @@ function solve() {
   } else {
     result = "Error!";
 }
-  
-
    document.getElementById("result").textContent = result;
- 
 }
