@@ -23,6 +23,7 @@ function solve() {
     result = "Error!";
 }
   
+
    document.getElementById("result").textContent = result;
  
 }
